@@ -14,6 +14,7 @@ kornia
 lark
 numpy
 omegaconf
+onnxruntime
 open-clip-torch
 
 piexif
